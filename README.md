@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="100"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1010" height="100"/>
 </div>
 
 ### :woman_technologist: About Me :
