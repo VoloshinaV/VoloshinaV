@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img scr="https://media.giphy.com/media/ZCes4khR2025X0rOLY/giphy.gif" width="100"/>
+</div>
 <!--
 **VoloshinaV/VoloshinaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
