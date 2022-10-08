@@ -33,7 +33,7 @@ I am a motivate Software QA Manual Engineer <img src="https://media.giphy.com/me
  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://www.pngrepo.com/png/354202/512/postman-icon.png" title="Postman" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://www.pngrepo.com/png/374111/512/swagger.png" title="Swagger" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.pngrepo.com/png/354321/512/selenium.png" title="Selenium IDE" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.selenium.dev/images/logos/ide.svg" title="Selenium IDE" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
     
