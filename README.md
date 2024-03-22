@@ -39,7 +39,7 @@ I am a motivate Software QA Engineer <img src="https://media.giphy.com/media/WUl
 <div>
   <img src="https://simpleicons.org/icons/json.svg" title="JSON" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/javascript.svg" title="JS" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="[https://simpleicons.org/icons/javascript.svg](https://www.svgrepo.com/show/374016/python.svg" title="JS" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/374016/python.svg" title="JS" alt="Spring" width="40" height="40"/>&nbsp;
   
 </div>
 
