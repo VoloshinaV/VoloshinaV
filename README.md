@@ -34,7 +34,7 @@ I am a motivate Software QA Engineer <img src="https://media.giphy.com/media/WUl
   <img src="https://www.pngrepo.com/png/354202/512/postman-icon.png" title="Postman" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://www.pngrepo.com/png/374111/512/swagger.png" title="Swagger" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://www.selenium.dev/images/logos/ide.svg" title="Selenium IDE" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="[https://www.selenium.dev/images/logos/ide.svg](https://nodejs.org/en/about/resources/)" title="Node.js" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://www.selenium.dev/images/logos/ide.svg" title="Node.js" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
 
     
