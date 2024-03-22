@@ -36,5 +36,11 @@ I am a motivate Software QA Engineer <img src="https://media.giphy.com/media/WUl
   <img src="https://www.selenium.dev/images/logos/ide.svg" title="Selenium IDE" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="Spring" width="40" height="40"/>&nbsp;
 </div>
+<div>
+  <img src="https://simpleicons.org/icons/json.svg" title="JSON" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/javascript.svg" title="JS" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="[https://simpleicons.org/icons/javascript.svg](https://www.svgrepo.com/show/374016/python.svg" title="JS" alt="Spring" width="40" height="40"/>&nbsp;
+  
+</div>
 
     
