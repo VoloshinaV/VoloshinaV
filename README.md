@@ -17,7 +17,6 @@ I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/W
 
 - :zap: In my free time I read a lot and improve my software testing skills
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voloshina-viktoria/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -51,4 +50,8 @@ I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/W
  
 </div>
 
-    
+ ###
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=How+to+reach+me:)](https://git.io/typing-svg) 
+ [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voloshina-viktoria/)
+ ### 
+ 
