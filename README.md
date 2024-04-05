@@ -11,14 +11,16 @@
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1010" height="100"/>
 </div>
 
-### :woman_technologist: About Me :
+#### :woman_technologist: About Me :
 I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Santa Clara, CA
 - :apple: I'm currently learning Python and Java Script
 
 - :zap: In my free time I read a lot and improve my software testing skills
+  
+- 📫 My LinkedIn Account: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voloshina-viktoria/)
 
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>&nbsp;
@@ -46,12 +48,10 @@ I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/W
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL"  width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="55" height="55"/>&nbsp;
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome"  width="55" height="55"/>&nbsp; 
 </div>
 
- ###
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=How+to+reach+me:)](https://git.io/typing-svg) 
- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/voloshina-viktoria/)
- ### 
- 
+## 
+
+![Codewars](https://github.r2v.ch/codewars?user=VoloshinaV&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
