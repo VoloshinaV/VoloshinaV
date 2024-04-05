@@ -54,4 +54,5 @@ I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/W
 ## 
 
 ![Codewars](https://github.r2v.ch/codewars?user=VoloshinaV&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
