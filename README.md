@@ -21,25 +21,25 @@ I am a motivate Software QA Engineer <img src="https://media.giphy.com/media/WUl
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.pngrepo.com/png/354202/512/postman-icon.png" title="Postman" alt="Spring" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"  width="55" height="55"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS"  width="55" height="55">&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"  width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL"  width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://www.pngrepo.com/png/354202/512/postman-icon.png" title="Postman" alt="Spring"  width="55" height="55"/>&nbsp;
 </div>
-<div>
-  <img src="https://simpleicons.org/icons/json.svg" title="JSON" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/javascript.svg" title="JS" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/374016/python.svg" title="Python" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.pngrepo.com/png/374111/512/swagger.png" title="Swagger" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://www.selenium.dev/images/logos/ide.svg" title="Selenium IDE" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="Spring" width="40" height="40"/>&nbsp;
+<div align="center" >
+  <img src="https://simpleicons.org/icons/json.svg" title="JSON" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://simpleicons.org/icons/javascript.svg" title="JS" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/374016/python.svg" title="Python" alt="Spring" width="55" height="55"/>&nbsp;
+  <img src="https://www.pngrepo.com/png/374111/512/swagger.png" title="Swagger" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://www.selenium.dev/images/logos/ide.svg" title="Selenium IDE" alt="Spring"  width="55" height="55"/>&nbsp;
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" title="Node.js" alt="Spring"  width="55" height="55"/>&nbsp;
  
 </div>
 
