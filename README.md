@@ -13,7 +13,7 @@
 
 #### :woman_technologist: About Me :
 I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Santa Clara, CA
-- :apple: I'm currently learning Python and Java Script
+- :apple: I'm currently learning Python, Java Script and SQL
 
 - :zap: In my free time I read a lot and improve my software testing skills
   
