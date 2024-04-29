@@ -12,7 +12,7 @@
 </div>
 
 #### :woman_technologist: About Me :
-I am a Software QA Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Santa Clara, CA
+I am a Software QA Automation Engineer from Santa Clara, CA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :apple: I'm currently learning Python, Java Script and SQL
 
 - :zap: In my free time I read a lot and improve my software testing skills
